@@ -2,3 +2,5 @@ Q1) Hello?
 Ans) Hi
 2) How are you?
 Ans) i am good
+3)Which color do you like?
+A) I like Green
